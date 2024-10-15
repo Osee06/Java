@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/oseeibobi/Documents/Study/Java/.metadata/.plugins/org.eclipse.jdt.core
+3520477417.index
+2776236804.index
+1865797976.index
